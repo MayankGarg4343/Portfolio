@@ -1,2 +1,2 @@
 # Portfolio
-This my first repository in this university.
+Create your own portfolio using th e amazing css and html.
